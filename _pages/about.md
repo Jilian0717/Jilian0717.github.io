@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Washington</a>. 
+subtitle: School of Oceanography, University of Washington 
 
 profile:
   align: right
