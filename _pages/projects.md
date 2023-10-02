@@ -20,6 +20,7 @@ A new offline particle tracking model, Tracker, was introduced to work with the 
 publication:
 
 **Biophysical models for Margalefidinium Polykrikoides Bloom in Chesapeake Bay**
+
 • Added biological modules to SCHISM’s particle tracking code to simulate harmful algal blooms
 
 Publication:
@@ -29,8 +30,8 @@ Xiong, J., Shen, J., Qin, Q., Tomlinson, M. C., Zhang, Y. J., Cai, X., Ye, F., C
 Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Margalefidinium polykrikides in Chesapeake Bay. Marine Pollution Bulletin, 184, 114187.
 
 **Exchange Flow and material transport in Chesapeake Bay**
-Modified EFDC model to calculate transport timescales for riverine non-conservative materials and 
-surface-produced particulates.
+
+Modified EFDC model to calculate transport timescales for riverine non-conservative materials and surface-produced particulates.
 
 Publication:
 
@@ -39,7 +40,6 @@ Xiong, J., Shen, J. (2022). Vertical transport timescale of surface-produced par
 Xiong, J., Shen, J., Qin, Q. (2021). Exchange flow and material transport along the salinity gradient in a long estuary. Journal of Geophysical Research: Oceans, e2021JC017185.
 
 Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship with external forcings and residence time in Chesapeake Bay. Journal of Marine Systems, 103497.
-
 
 **Mechanism of high suspended sediment concentration in the southern Yellow Sea, China**
 
