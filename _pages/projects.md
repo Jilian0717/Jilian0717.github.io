@@ -11,9 +11,12 @@ horizontal: false
 
 <span style="text-decoration: underline">Selected projects:</span>
 
-**Intercomparison of 5 Lagrangian particle tracking codes**
+**Intercomparison of Lagrangian particle tracking software packages in ROMS**
 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/particle.gif" style="float:right; width: 50%; height: 50%">
+
+A new offline particle tracking model, Tracker, was introduced to work with the Regional Ocean Modeling System (ROMS). Its performance was compared with four other particle tracking models and passive dye, which span a representative range of tracking algorithms. All tracking models perform similarly, especially for the first day. The comparison of multiple tracking codes in the same circulation model establishes confidence in all, and allows comparison of performance and ease of use.
+
 
 publication:
 
