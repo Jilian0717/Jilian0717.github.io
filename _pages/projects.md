@@ -11,11 +11,23 @@ horizontal: false
 
 <span style="text-decoration: underline">Selected projects:</span>
 
+** Intercomparison of 5 Lagrangian particle tracking codes **
+
+publication:
+
 ** HABs **
 
 Publication:
 
 
-** Exchange Flow in CB **
+** Exchange Flow and material transport in Chesapeake Bay **
 
+Publication:
 
+** Mechanism of high suspended sediment concentration in the southern Yellow Sea, China **
+
+Publication: 
+
+** wave dynamics **
+
+Publication:
