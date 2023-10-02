@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-jxiong7 at uw dot edu
+subtitle: jxiong7 at uw dot edu
 School of Oceanography, University of Washington 
 
 profile:
