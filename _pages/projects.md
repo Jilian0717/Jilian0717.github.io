@@ -11,23 +11,23 @@ horizontal: false
 
 <span style="text-decoration: underline">Selected projects:</span>
 
-** Intercomparison of 5 Lagrangian particle tracking codes **
+**Intercomparison of 5 Lagrangian particle tracking codes**
 
 publication:
 
-** HABs **
+**Biophysical models for Margalefidinium Polykrikoides Bloom in Chesapeake Bay**
 
 Publication:
 
 
-** Exchange Flow and material transport in Chesapeake Bay **
+**Exchange Flow and material transport in Chesapeake Bay**
 
 Publication:
 
-** Mechanism of high suspended sediment concentration in the southern Yellow Sea, China **
+**Mechanism of high suspended sediment concentration in the southern Yellow Sea, China**
 
 Publication: 
 
-** wave dynamics **
+**wave dynamics**
 
 Publication:
