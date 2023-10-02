@@ -13,6 +13,8 @@ horizontal: false
 
 **Intercomparison of 5 Lagrangian particle tracking codes**
 
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/particle.gif" style="float:right; width: 50%; height: 50%">
+
 publication:
 
 **Biophysical models for Margalefidinium Polykrikoides Bloom in Chesapeake Bay**
