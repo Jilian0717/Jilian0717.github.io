@@ -21,9 +21,12 @@ publication:
 Xiong, J., MacCready, P. Intercomparisons of five ocean particle tracking software packages in the Regional Ocean Modeling System. Geoscientific Model Development (in review)
 
 
-**Biophysical models for Margalefidinium Polykrikoides Bloom in Chesapeake Bay**
+**Development of a biophysical model to simulate Margalefidinium Polykrikoides Bloom in Chesapeake Bay**
 
-• Added biological modules to SCHISM’s particle tracking code to simulate harmful algal blooms
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/HAB_simulation.png" style="float:right; width: 50%; height: 50%">
+
+Harmful algal blooms (HABs) threaten human health, marine life, and coastal economies. Accurate prediction of HABs is still a challenge. Lagrangian particle tracking (LPT) is a popular tool to track algal blooms, yet most LPT models use passive particles to represent algae without considering their interactions with ambient environmental conditions, including water temperature, salinity, available light, and nutrient concentrations. To advance predictions of HABs, we developed a novel LPT-Biological (LPT-Bio) model that integrates the advantages of both Lagrangian and Eulerian approaches by incorporating algal dynamics (mixotrophic growth, respiration, and mortality), algal biomass change, and diel vertical migration (DVM), along the predicted transport trajectories. The model is fully controlled by environmental conditions while maintaining mass balance. The improved LPT-Bio model was applied to simulate the 2020 Margalefidinium polykrikoides bloom in the Chesapeake Bay and successfully captured bloom intensity/duration/spatial extent and resolved locally aggregated patchiness. We found that capturing DVM patterns and including mixotrophic growth are critical for HAB simulation. The present model framework can provide a basis for developing a forecast system for HABs in the Bay.
+The LPT-Bio model is further used to investigate the underlying mechanisms of the coastward expansion of M. polykrikoides in 2020 summer after a tropical storm passing Chesapeake Bay. Such coastward expansion was only recorded in 2007. We found that the persistent pre-storm southerly winds favored the delivery of bloom source water originated inside the bay to the coast. Storm-induced strong upwelling of denser subsurface water interacted with the after-storm outflow plume (steered southward as the storm's impacts waned), forming a transport barrier to accumulate algae and delineate the coastwide bloom extent. Algal diel vertical migrations and transport barrier enable algae to stay in the nearshore regions. The storm-induced coastward expansion of M. polykrikoides might increase future bloom possibility in the coastal area.
 
 Publication:
 
