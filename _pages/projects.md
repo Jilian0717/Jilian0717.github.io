@@ -24,7 +24,7 @@ Xiong, J., MacCready, P. Intercomparisons of five ocean particle tracking softwa
 **Development of a biophysical model to simulate Margalefidinium Polykrikoides Bloom in Chesapeake Bay**
 
 Harmful algal blooms (HABs) threaten human health, marine life, and coastal economies. Lagrangian particle tracking (LPT) is a popular tool to track algal blooms, yet most LPT models use passive particles to represent algae without considering their interactions with ambient environmental conditions, including water temperature, salinity, available light, and nutrient concentrations. To advance predictions of HABs, we developed a novel LPT-Biological (LPT-Bio) model that integrates the advantages of both Lagrangian and Eulerian 
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/LPT_bio_model.jpg" style="float:right; width: 40%; height: 40%">
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/LPT_Bio_model.jpg" style="float:right; width: 40%; height: 40%">
 approaches by incorporating algal dynamics (mixotrophic growth, respiration, and mortality), algal biomass change, and diel vertical migration, along the predicted transport trajectories. The model is fully controlled by environmental conditions while maintaining mass balance. The improved LPT-Bio model was applied to simulate the 2020 Margalefidinium polykrikoides bloom in the Chesapeake Bay and successfully captured bloom intensity/duration/spatial extent and resolved locally aggregated patchiness. We found that capturing DVM patterns and including mixotrophic growth are critical for HAB simulation. The present model framework can provide a basis for developing a forecast system for HABs in the Bay.
 
 The LPT-Bio model is further used to investigate mechanisms of the coastward expansion of M. polykrikoides in 2020 summer after a tropical storm passing the Bay. Such coastward expansion was only recorded in 2007. We found that the persistent pre-storm southerly winds favored the delivery of bloom source water originated inside the bay to the coast. Storm-induced strong upwelling of denser subsurface water interacted with the after-storm outflow plume (steered southward as the storm's impacts waned), forming a transport barrier to accumulate algae and delineate the coastwide bloom extent. Algal diel vertical migrations and transport barrier enable algae to stay in the nearshore regions. The storm-induced coastward expansion of M. polykrikoides might increase future bloom possibility in the coastal area.
@@ -36,8 +36,6 @@ Xiong, J., Shen, J., Qin, Q., Tomlinson, M. C., Zhang, Y. J., Cai, X., Ye, F., C
 Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Margalefidinium polykrikides in Chesapeake Bay. Marine Pollution Bulletin, 184, 114187.
 
 **Long-term variability (32 years) of exchange Flow in Chesapeake Bay**
-
-Modified EFDC model to calculate transport timescales for riverine non-conservative materials and surface-produced particulates.
 
 Publication:
 Xiong, J., Shen, J., Qin, Q. (2021). Exchange flow and material transport along the salinity gradient in a long estuary. Journal of Geophysical Research: Oceans, e2021JC017185.
