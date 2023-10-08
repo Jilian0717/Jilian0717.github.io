@@ -37,7 +37,7 @@ Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Marga
 
 **Long-term variabilities (32 years) of Exchange Flow in Chesapeake Bay**
 
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.png" style="float:center; width: 40%; height: 40%">
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.jpg" style="float:center; width: 40%; height: 40%">
 
 Publication:
 
