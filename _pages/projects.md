@@ -37,9 +37,10 @@ Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Marga
 
 **Long-term variabilities (32 years) of Exchange Flow in Chesapeake Bay**
 
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.png" style="float:right; width: 40%; height: 40%">
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.png" style="float:center; width: 40%; height: 40%">
 
 Publication:
+
 Xiong, J., Shen, J., Qin, Q. (2021). Exchange flow and material transport along the salinity gradient in a long estuary. Journal of Geophysical Research: Oceans, e2021JC017185.
 
 Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship with external forcings and residence time in Chesapeake Bay. Journal of Marine Systems, 103497.
