@@ -35,7 +35,9 @@ Xiong, J., Shen, J., Qin, Q., Tomlinson, M. C., Zhang, Y. J., Cai, X., Ye, F., C
 
 Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Margalefidinium polykrikides in Chesapeake Bay. Marine Pollution Bulletin, 184, 114187.
 
-**Long-term variability (32 years) of exchange Flow in Chesapeake Bay**
+**Long-term variabilities (32 years) of Exchange Flow in Chesapeake Bay**
+
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.png" style="float:right; width: 40%; height: 40%">
 
 Publication:
 Xiong, J., Shen, J., Qin, Q. (2021). Exchange flow and material transport along the salinity gradient in a long estuary. Journal of Geophysical Research: Oceans, e2021JC017185.
