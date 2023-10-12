@@ -36,9 +36,8 @@ Xiong, J., Shen, J., Qin, Q., Tomlinson, M. C., Zhang, Y. J., Cai, X., Ye, F., C
 Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Margalefidinium polykrikides in Chesapeake Bay. Marine Pollution Bulletin, 184, 114187.
 
 **Long-term variabilities (32 years) of exchange flow and reflux-efflux in Chesapeake Bay**
-
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.jpg" style="float:center; width: 60%; height: 60%">
 Water exchange, featured by bottom inflow and surface outflow in a typical estuary, determines the transport and redistribution of salt, nutrients, pollutants, and suspended sediments and organisms. Based on a long-term (1980–2011) numerical model simulation, this study examines the water exchanges between Chesapeake Bay and the adjacent coastal shelf, and between different regions within the bay. Through an EOF analysis, we found that over 90% of the spatiotemporal variations of water exchange can be explained by freshwater discharge and northwesterly wind. Unlike the outflow that increases linearly with river discharge as commonly expected, the inflow initially increases with river discharge due to enhanced gravitational circulation and then levels, and gradually declines due to overwhelming seaward barotropic current. A locally enhanced water exchange was found in the lower-middle bay, associated with the persistent reflux (quantified using [TEF](https://github.com/parkermac/LO/tree/main/extract/tef2)) of surface outflow due to the shoaling of the main channel (i.e. Rappahannock Shoal near the mouth). 
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.jpg" style="float:center; width: 40%; height: 40%">
 
 Publication:
 
