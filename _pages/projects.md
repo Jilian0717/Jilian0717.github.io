@@ -48,6 +48,8 @@ Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship
 
 **Transport timescale of riverine dissolved material and surface-produced particulates in Chesapeake Bay**
 
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/timescale_definition.tiff" style="float:center; width: 40%; height: 40%">
+
 The water exchange and the mean residence time can be connected reciprocally through the bay volume, yet the validation of this relationship depends on the timescale to be considered since the residence time at a given time is controlled by the future hydrodynamics. A delay effect should be considered when using the relationship to estimate outflow interchangeably with the direct computation of the outflow.
 A retention coefficient was adopted to quantify the material retention rate using two characteristic PRTs: with and without incorporating water parcels returning to a concerned region. It is found that shoaling from the Rappahannock Shoal to the mouth causes persistent downwelling, strong reflux, and the highest material retention rate in the middle of the bay. 
 
