@@ -6,7 +6,7 @@ description: I'm mainly using oceanographic numerical models, Lagrangian particl
 nav: true
 nav_order: 1
 display_categories: []
-horizontal: false
+horizontal: true
 ---
 <span style="text-decoration: underline">Selected projects:</span>
 
