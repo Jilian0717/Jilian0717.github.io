@@ -64,6 +64,7 @@ Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship
 Xiong, J., Shen, J. (2022). Vertical transport timescale of surface-produced particulate material in the Chesapeake Bay. [Journal of Geophysical Research: Oceans, e2021JC017592](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017592).
 
 **Mechanisms of high suspended sediment concentration in the southern Yellow Sea, China**
+<img class="col one last" src="{{ site.baseurl}}/assets/img/publication_preview/background_ssc.png" style="float:right; width: 50%; height: 50%">
 
 Understanding the dynamics and behaviors of suspended sediments is vital for analyzing the morphological, environmental, and ecological processes in coastal environments. To study the mechanisms for the high suspended sediment concentrations (SSCs) in a tide-dominated 
 offshore shoal, we measured water depths, current velocities, SSCs, wave parameters, and bottom sediment 
