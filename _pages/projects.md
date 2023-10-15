@@ -16,7 +16,7 @@ horizontal: false
 
 Lagrangian particle tracking is widely utilized to study transport features in oceanography. In this study, we officially introduced a new offline particle tracking package, [Tracker](https://github.com/parkermac/LO/tree/main/tracker), and evaluated its performance in comparison to ROMS online dye and online particle tracking ([floats](https://www.myroms.org/wiki/floats.in)), and three offline particle tracking software packages ([LTRANS](https://northweb.hpl.umces.edu/LTRANS.htm), [OpenDrift](https://opendrift.github.io/), [Particulator](https://github.com/neilbanas/particulator)). It was found that both particle and dye approaches gave similar results across different model resolutions and domains when they were tracking the same water mass. The flexibility of offline particle tracking and its similarity against online dye and particle tracking make it a useful tool to complement existing ocean circulation models. The new Tracker was shown to be a reliable particle tracking package to complement ROMS. We also explored the tradeoffs of computational efficiency, modifiability, and ease of use that can influence the choice of which package. The main value of the present study is that the different particle and dye tracking codes were all run on the same model output, or within the model that generated the output. This allows some measure of intercomparison of the different tracking schemes.
 
-### Publication:
+Publication:
 
 Xiong, J., MacCready, P. Intercomparisons of five ocean particle tracking software packages in the Regional Ocean Modeling System. Geoscientific Model Development ([in review](https://gmd.copernicus.org/preprints/gmd-2023-45/gmd-2023-45.pdf)).
 
@@ -29,7 +29,7 @@ approaches. We included algal dynamics (mixotrophic growth, respiration, and mor
 
 The LPT-Bio model is further used to investigate mechanisms of the coastward expansion of *M. polykrikoides* in the summer of 2020 after a tropical storm passed the Bay. Such coastward expansion was only recorded in 2007. We found that the persistent pre-storm southerly winds favored the delivery of bloom source water (originated inside the bay) to the coast. Storm-induced strong upwelling of denser subsurface water interacted with the after-storm outflow plume, forming a transport barrier to accumulate algae and delineate the coastwide bloom extent. Algal diel vertical migrations and transport barrier enable algae to stay in the nearshore regions. The storm-induced coastward expansion of *M. polykrikoides* might increase future bloom possibilities in the coastal area.
 
-*Publication*:
+Publication:
 
 Xiong, J., Shen, J., Qin, Q., Tomlinson, M. C., Zhang, Y. J., Cai, X., Ye, F., Cui, L., Mulholland, M. R. (2023). Biophysical interactions control the progression of harmful algal blooms in Chesapeake Bay: a novel Lagrangian particle tracking model with mixotrophic growth and vertical migration. [Limnology and Oceanography Letters](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10308).
 
