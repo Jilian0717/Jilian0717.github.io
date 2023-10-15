@@ -27,7 +27,7 @@ Harmful algal blooms (HABs) threaten marine life and human health. Lagrangian pa
 <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/LPT_Bio_model.jpg" style="float:right; width: 60%; height: 60%">
 approaches. We included algal dynamics (mixotrophic growth, respiration, and mortality) and diel vertical migration to numerical particles based on the modeling system SCHISM. The improved LPT-Bio model was applied to simulate the 2020 [Margalefidinium polykrikoides](https://www.vims.edu/bayinfo/habs/guide/cochlodinium.php) bloom in Chesapeake Bay and successfully captured bloom intensity, duration, spatial extent, and resolved locally aggregated patchiness. We found that capturing DVM patterns and including mixotrophic growth are critical for HAB simulation. The present model framework can provide a basis for developing a forecast system for HABs in the Bay.
 
-The LPT-Bio model is further used to investigate mechanisms of the coastward expansion of M. polykrikoides in the summer of 2020 after a tropical storm passed the Bay. Such coastward expansion was only recorded in 2007. We found that the persistent pre-storm southerly winds favored the delivery of bloom source water (originated inside the bay) to the coast. Storm-induced strong upwelling of denser subsurface water interacted with the after-storm outflow plume, forming a transport barrier to accumulate algae and delineate the coastwide bloom extent. Algal diel vertical migrations and transport barrier enable algae to stay in the nearshore regions. The storm-induced coastward expansion of M. polykrikoides might increase future bloom possibilities in the coastal area.
+The LPT-Bio model is further used to investigate mechanisms of the coastward expansion of *M. polykrikoides* in the summer of 2020 after a tropical storm passed the Bay. Such coastward expansion was only recorded in 2007. We found that the persistent pre-storm southerly winds favored the delivery of bloom source water (originated inside the bay) to the coast. Storm-induced strong upwelling of denser subsurface water interacted with the after-storm outflow plume, forming a transport barrier to accumulate algae and delineate the coastwide bloom extent. Algal diel vertical migrations and transport barrier enable algae to stay in the nearshore regions. The storm-induced coastward expansion of *M. polykrikoides* might increase future bloom possibilities in the coastal area.
 
 *Publication*:
 
@@ -35,8 +35,8 @@ Xiong, J., Shen, J., Qin, Q., Tomlinson, M. C., Zhang, Y. J., Cai, X., Ye, F., C
 
 Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Margalefidinium polykrikides in Chesapeake Bay. [Marine Pollution Bulletin, 184, 114187](https://www.sciencedirect.com/science/article/abs/pii/S0025326X22008694).
 
-**Long-term variabilities (32 years) of exchange flow and reflux-efflux in Chesapeake Bay**
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/TEF_Illustration_v4.jpg" style="float:right; width: 60%; height: 60%">
+**Exchange flow and water reflux-efflux in Chesapeake Bay**
+<img class="col one last" src="{{ site.baseurl}}/assets/img/publication_preview/TEF_Illustration_v4.jpg" style="float:right; width: 60%; height: 60%">
 Water exchange, featured by bottom inflow and surface outflow in a typical estuary, determines the transport and redistribution of salt, nutrients, pollutants, and suspended sediments and organisms. Based on a long-term (1980–2011) numerical model simulation, this study examines the water exchanges between Chesapeake Bay and the adjacent coastal shelf, and between different regions within the bay. Through an EOF analysis, we found that over 90% of the spatiotemporal variations of water exchange can be explained by freshwater discharge and northwesterly wind. Unlike the outflow that increases linearly with river discharge as commonly expected, the inflow initially increases with river discharge due to enhanced gravitational circulation and then levels, and gradually declines due to overwhelming seaward barotropic current. A locally enhanced water exchange was found in the lower-middle bay, associated with the persistent reflux (quantified using [TEF](https://github.com/parkermac/LO/tree/main/extract/tef2)) of surface outflow due to the shoaling of the main channel (i.e. Rappahannock Shoal near the mouth). 
 
 Publication:
@@ -45,15 +45,16 @@ Xiong, J., Shen, J., Qin, Q. (2021). Exchange flow and material transport along 
 
 Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship with external forcings and residence time in Chesapeake Bay. [Journal of Marine Systems, 103497](https://www.sciencedirect.com/science/article/abs/pii/S0924796320301925).
 
-**Application of transport timescales in Chesapeake Bay**
+**Applications of transport timescales in Chesapeake Bay**
 
-The hydrodynamics-regulated transport process can be quantitatively described using a transport timescale. A wealth of terminologies related to transport timescale has been used in the literatures since the seminal work on diagnostic timescale by Bolin & Rodhe (1973), including residence time, partial residence time, flushing time, exposure time, transit time, water age, partial age, influence time, renewal time, etc. 
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/definition.png" style="float:right; width: 60%; height: 60%">. Transport timescale provides a 4th-dimensional time information to distill the details of hydrodynamic circulations and acts as a common currency to compare the physical transport time with the timescale for biochemical reactions. 
+A wealth of terminologies related to transport timescales have been used in the literature since the seminal work on diagnostic timescale by Bolin & Rodhe (1973): residence time, partial residence time, flushing time, exposure time, transit time, water age, partial age, influence time, renewal time, etc. 
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/definition.png" style="float:right; width: 60%; height: 60%">. Transport timescale provides 4th-dimensional time information to distill the details of hydrodynamic circulations and acts as a common currency to compare the physical transport time with the timescale for biochemical reactions. 
 
-With valid definitions, transport timescale can be tailored to serve various study purposes. For example, by adjusting the location of boundaries where the material (or water parcel) exits, residence time (no return) in different segments of Chesapeake Bay can be quantified; by controlling whether the exited materials return or not, the transport time was termed as “exposure time”, which can be used to quantify the total time for nutrients or pollutants to stay in an area of interest; by comparing residence time and exposure time, a retention coefficient can be calculated to quantify the material retention efficiency; by controlling the virtual clock attached to each (sinking) particle (or water parcel), the time spent in different subregions (e.g., water column and bottom sediments) along the transport trajectories can be quantified; 
-
-
-The water exchange and the mean residence time can be connected reciprocally through the bay volume, yet the validation of this relationship depends on the timescale to be considered since the residence time at a given time is controlled by the future hydrodynamics. A delay effect should be considered when using the relationship to estimate outflow interchangeably with the direct computation of the outflow.
+With valid definitions, the transport timescale can be tailored to serve various study purposes. For example:
+- by adjusting the location of boundaries where the material (or water parcel) exits for the first time, residence time in different subdomains can be quantified;
+- by counting the subsequent material (or water) re-entering, the transport timescale was termed as “exposure time”, which can be used to quantify the total time for nutrients or pollutants to stay in an area of interest;
+- by comparing residence time and exposure time, a retention coefficient can be calculated to quantify the material retention efficiency;
+- by controlling the virtual clock attached to each (sinking) particle (or water parcel), the time spent in different subregions (e.g., water column and bottom sediments) along the transport trajectories can be quantified.
 
 Publication:
 
