@@ -52,10 +52,10 @@ A wealth of terminologies related to transport timescales have been used in the 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/definition.png" style="float:right; width: 60%; height: 60%">. Transport timescale provides 4th-dimensional time information to distill the details of hydrodynamic circulations and acts as a common currency to compare the physical transport time with the timescale for biochemical reactions. 
 
 With valid definitions, the transport timescale can be tailored to serve various study purposes. For example:
-- by adjusting the location of boundaries where the material (or water parcel) exits for the first time, residence time in different subdomains can be quantified;
-- by counting the subsequent material (or water) re-entering, the transport timescale was termed as “exposure time”, which can be used to quantify the total time for nutrients or pollutants to stay in an area of interest;
-- by comparing residence time and exposure time, a retention coefficient can be calculated to quantify the material retention efficiency;
-- by controlling the virtual clock attached to each (sinking) particle (or water parcel), the time spent in different subregions (e.g., water column and bottom sediments) along the transport trajectories can be quantified.
+- by adjusting the boundary where the material (or water parcel) exits for the first time, residence time in different subdomains can be quantified.
+- by counting the subsequent material (or water) re-entering, the transport timescale can be termed as “exposure time”, which quantifies the total time for nutrients or pollutants to stay in an area of interest.
+- by comparing residence time and exposure time, a retention coefficient can be calculated to quantify the material retention efficiency.
+- by controlling a virtual clock⏰ attached to each (sinking) particle (or water parcel), the time spent in different subregions (e.g., water column and bottom sediments) along the transport trajectories can be quantified.
 
 Publication:
 
@@ -64,9 +64,9 @@ Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship
 Xiong, J., Shen, J. (2022). Vertical transport timescale of surface-produced particulate material in the Chesapeake Bay. [Journal of Geophysical Research: Oceans, e2021JC017592](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017592).
 
 **Mechanisms of high suspended sediment concentration in the southern Yellow Sea, China**
-<img class="col one last" src="{{ site.baseurl}}/assets/img/publication_preview/background_ssc.png" style="float:right; width: 50%; height: 50%">
 
-Understanding the dynamics and behaviors of suspended sediments is vital for analyzing the morphological, environmental, and ecological processes in coastal environments. To study the mechanisms for the high suspended sediment concentrations (SSCs > 1 kg/m3) in a tidally dominated offshore shoal in the southern Yellow Sea, we measured water depths, current velocities, SSCs, wave parameters, and bottom sediment compositions from 27 September to 5 October 2014 via near-bed tripod systems. The SSCs time series exhibited strong semidiurnal peaks during the neap tide, in contrast to the quarter-diurnal signal during the spring tide. Based on a Fourier analysis, M4 components of SSC (due to resuspension) was the major mechanism for the variations of the high SSC in most sites. A relatively constant high background SSC was also identified in the study area. The background SSCs may be maintained by the intermittent turbulence driven by a combined tidal current and wave action during slack tides.
+Understanding the dynamics and behaviors of suspended sediments is vital for analyzing the morphological, environmental, and ecological processes in coastal environments. To study the mechanisms 
+<img class="col one last" src="{{ site.baseurl}}/assets/img/publication_preview/background_ssc.png" style="float:right; width: 50%; height: 50%"> for the high suspended sediment concentrations (SSCs > 1 kg/m3) in a tidally dominated offshore shoal in the southern Yellow Sea, we measured water depths, current velocities, SSCs, wave parameters, and bottom sediment compositions from 27 September to 5 October 2014 via near-bed tripod systems. The SSCs time series exhibited strong semidiurnal peaks during the neap tide, in contrast to the quarter-diurnal signal during the spring tide. Based on a Fourier analysis, M4 component of SSC (due to resuspension) was the major mechanism for the variations of the high SSC in most sites. A relatively constant high background SSC was also identified in the study area. The background SSCs may be maintained by the intermittent turbulence driven by a combined tidal current and wave action during slack tides.
 
 Publication: 
 
