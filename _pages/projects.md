@@ -51,9 +51,9 @@ Xiong, J., Shen, J., Qin, Q., Du, J. (2021). Water exchange and its relationship
 **Applications of transport timescales in Chesapeake Bay**
 
 Transport timescale provides 4th-dimensional time information to distill the details of hydrodynamic circulations and acts as a common currency to compare the physical transport time with the timescale for biochemical reactions. A wealth of terminologies related to transport timescales have been used in the literature since the seminal work on diagnostic timescale by Bolin & Rodhe (1973): residence time, partial residence time, flushing time, exposure time, transit time, water age, partial age, influence time, renewal time, etc. 
-<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/definition.png" style="float:right; width: 60%; height: 60%">.  
 
 With valid definitions, the transport timescale can be tailored to serve various study purposes. For example:
+<img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/definition.png" style="float:right; width: 60%; height: 60%">
 - by adjusting the boundary where the material (or water parcel) exits for the first time, residence time in different subdomains can be quantified.
 - by counting the subsequent material (or water) re-entering, the transport timescale can be termed as “exposure time”, which quantifies the total time for nutrients or pollutants to stay in an area of interest.
 - by comparing residence time and exposure time, a retention coefficient can be calculated to quantify the material retention efficiency.
