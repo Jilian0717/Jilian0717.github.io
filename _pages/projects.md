@@ -88,3 +88,4 @@ Xiong, J., You, Z., Li, J., Gao, S., Wang, Q., Wang, Y. P. (2020). Variations of
 
 Xiong, J., Wang, Y. P., Gao, S., Du, J., Yang, Y. (2018). On estimation of coastal wave parameters and wave-induced shear stress. [Limnology and Oceanography: Methods, 16(9): 594-606](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lom3.10271).
 
+An [article](https://sgos.nju.edu.cn/cb/0f/c8418a641807/page.htm) (in Chinese) introducing research on waves in Dr. Ya Ping Wang's group at Nanjing University.
