@@ -18,7 +18,7 @@ Lagrangian particle tracking is widely utilized to study transport features in o
 
 Publication:
 
-Xiong, J., MacCready, P. Intercomparisons of five ocean particle tracking software packages in the Regional Ocean Modeling System. Geoscientific Model Development ([in review](https://gmd.copernicus.org/preprints/gmd-2023-45/gmd-2023-45.pdf)).
+Xiong, J., & MacCready, P. (2024). Intercomparisons of Tracker v1.1 and four other ocean particle-tracking software packages in the Regional Ocean Modeling System. [Geoscientific Model Development, 17(8), 3341-3356](https://gmd.copernicus.org/articles/17/3341/2024/).
 
 
 **Developing a biophysical model to simulate harmful algal bloom in Chesapeake Bay**
