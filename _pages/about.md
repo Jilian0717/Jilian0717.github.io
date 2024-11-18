@@ -7,9 +7,10 @@ subtitle: jxiong7 at uw dot edu<br>School of Oceanography, University of Washing
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>William & Mary, 2022 commencement</p>
+    <p>William & Mary</p>
+    <p>2022 Commencement</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
