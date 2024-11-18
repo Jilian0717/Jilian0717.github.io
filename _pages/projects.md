@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: I'm mainly using oceanographic numerical models, Lagrangian particle tracking, and the concept of transport timescales to study how physics impacts the transport and fate of estuarine and coastal materials (nutrients, particulates, swimming algae, sediments...). During my master's, I analyzed coastal wave dynamics and high suspended sediment concentrations based on observations.
+description: I'm mainly using ocean models, Lagrangian particle tracking, and the concept of transport timescales to study how physics impacts the transport and fate of estuarine and coastal materials (nutrients, particulates, swimming algae, sediments...). During my master's, I analyzed coastal wave dynamics and high suspended sediment concentrations based on observations.
 nav: true
 nav_order: 1
 display_categories: []
@@ -14,7 +14,7 @@ horizontal: true
 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/particle.gif" style="float:right; width: 50%; height: 50%">
 
-Lagrangian particle tracking is widely utilized to study transport features in oceanography. In this study, we officially introduced a new offline particle tracking package, [Tracker](https://github.com/parkermac/LO/tree/main/tracker), and evaluated its performance in comparison to ROMS online dye and online particle tracking ([floats](https://www.myroms.org/wiki/floats.in)), and three offline particle tracking software packages ([LTRANS](https://northweb.hpl.umces.edu/LTRANS.htm), [OpenDrift](https://opendrift.github.io/), [Particulator](https://github.com/neilbanas/particulator)). It was found that both particle and dye approaches gave similar results across different model resolutions and domains when they were tracking the same water mass. The flexibility of offline particle tracking and its similarity against online dye and particle tracking make it a useful tool to complement existing ocean circulation models. The new Tracker was shown to be a reliable particle tracking package to complement ROMS. We also explored the tradeoffs of computational efficiency, modifiability, and ease of use that can influence the choice of which package. The main value of the present study is that the different particle and dye tracking codes were all run on the same model output, or within the model that generated the output. This allows some measure of intercomparison of the different tracking schemes.
+Lagrangian particle tracking is widely utilized to study transport features in oceanography. Here, we officially introduced a new offline particle tracking package, [Tracker](https://github.com/parkermac/LO/tree/main/tracker), and evaluated its performance against ROMS online dye and online particle tracking ([floats](https://www.myroms.org/wiki/floats.in)), and three offline particle tracking software packages ([LTRANS](https://northweb.hpl.umces.edu/LTRANS.htm), [OpenDrift](https://opendrift.github.io/), [Particulator](https://github.com/neilbanas/particulator)). 
 
 Publication:
 
