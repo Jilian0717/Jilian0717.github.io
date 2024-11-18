@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: I'm mainly using ocean models, Lagrangian particle tracking, and the concept of transport timescales to study how physics impacts the transport and fate of estuarine and coastal materials (nutrients, particulates, swimming algae, sediments...). During my master's, I analyzed coastal wave dynamics and high suspended sediment concentrations based on observations.
+description: I've been using ocean models, Lagrangian particle tracking, and the concept of transport timescales to study how physics impacts the transport and fate of estuarine and coastal materials (nutrients, particulates, swimming algae, sediments...). During my master's, I analyzed coastal wave dynamics and high suspended sediment concentrations based on observations.
 nav: true
 nav_order: 1
 display_categories: []
