@@ -10,11 +10,22 @@ horizontal: true
 ---
 <span style="text-decoration: underline">Selected projects:</span>
 
+***Ocean transport drives eDNA dispersal in Hood Canal**
+
+Environmental DNA (eDNA) is increasingly used for species detection and biodiversity monitoring in marine environments. The dynamic nature of these environments affects eDNA distribution relative to its source organisms, complicating the interpretation of eDNA observations and challenging field sampling design. Here, an eDNA fate and transport model, built on an ocean model with Lagrangian particle tracking, <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/eDNA.png" style="float:right; width: 50%; height: 50%"> provided a best estimate of the rapid dilution of eDNA shed by rare targets before sampling. Over 70% of the pre-selected stations detected the target eDNA. Despite potential variations in source strength and patchy distributions, the model-predicted particles explained approximately 40% of the observed variation in eDNA abundance; by comparison, eDNA concentration was uncorrelated with Euclidean distance alone or with a simplified oceanographic model. Our study revealed the extent of ocean transport in shaping eDNA distribution and abundance, and demonstrated the utility of ocean models and particle tracking in integrating marine eDNA observations with degradation, transport, and dilution process; thus suggests broader applications to enhance understanding of eDNA signals and dispersals, and optimize sampling strategies in other marine environments.
+
+Publication:
+
+Xiong, J., MacCready, P., Brasseale, E. A., Allan, E. A., Ramon-Laca, A., Parsons, K., Shaffer, M.,
+Kelly, P. Ocean transport drives environmental DNA dispersal in a nearshore marine environment
+(in revision).
+
+
 **Impact of estuarine exchange flow on multi-tracer budgets in the Salish Sea**
 
 Estuarine exchange flow is often many times greater in magnitude than river discharge. It affects all aspects of estuarine biogeochemistry. To understand the impact of the large volume transport by the exchange flow to biogeochemical tracers, we used a computer model, [LiveOcean](https://faculty.washington.edu/pmacc/LO/LiveOcean.html) that simulates the circulation and <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/LO_rivers_wwtps.png" style="float:right; width: 50%; height: 50%"> biogeochemical processes in the Salish Sea, a large, fjordal estuarine system in the Pacific Northwest. We selected three important tracers for the health of the ecosystem: heat, total nitrogen (TN), and dissolved oxygen (DO). We found that the exchange flow always dominantly regulates these tracer budgets and has a clear annual cycle, which is determined by the tracer concentration difference between the inflowing and outflowing branch of the exchange flow. The heat budget is mainly balanced by exchange flow cooling and atmospheric heating, both terms peaking in summer. TN variation is mostly due to the exchange flow, but its annual average is dominated by inputs from rivers and wastewater, and loss due to benthic denitrification. The DO budget is complex, with exchange flow and respiration acting as sinks, and photosynthesis and air-sea transfer as sources. The methods we used to calculate tracer budgets can be applied to other tracers and other estuarine systems.
 
-Publication
+Publication:
 
 Xiong, J., MacCready, P., Leeson, A. Impact of estuarine exchange flow on multi-tracer budgets in the Salish Sea. JGR-Oceans, in revision
 
