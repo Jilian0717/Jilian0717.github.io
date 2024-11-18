@@ -10,6 +10,15 @@ horizontal: true
 ---
 <span style="text-decoration: underline">Selected projects:</span>
 
+**Impact of estuarine exchange flow on multi-tracer budgets in the Salish Sea**
+
+Estuarine exchange flow is often many times greater in magnitude than river discharge. It affects all aspects of estuarine biogeochemistry. To understand the impact of the large volume transport by the exchange flow to biogeochemical tracers, we used a computer model, [LiveOcean](https://faculty.washington.edu/pmacc/LO/LiveOcean.html) that simulates the circulation and biogeochemical processes in the Salish Sea, a large, fjordal estuarine system in the Pacific Northwest. We selected three important tracers for the health of the ecosystem: heat, total nitrogen (TN), and dissolved oxygen (DO). We found that the exchange flow always dominantly regulates these tracer budgets and has a clear annual cycle, which is determined by the tracer concentration difference between the inflowing and outflowing branch of the exchange flow. The heat budget is mainly balanced by exchange flow cooling and atmospheric heating, both terms peaking in summer. TN variation is mostly due to the exchange flow, but its annual average is dominated by inputs from rivers and wastewater, and loss due to benthic denitrification. The DO budget is complex, with exchange flow and respiration acting as sinks, and photosynthesis and air-sea transfer as sources. The methods we used to calculate tracer budgets can be applied to other tracers and other estuarine systems.
+
+Publication
+
+Xiong, J., MacCready, P., Leeson, A. Impact of estuarine exchange flow on multi-tracer budgets in the Salish Sea. JGR-Oceans, in revision
+
+
 **Intercomparison of Lagrangian particle tracking software packages in ROMS**
 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/publication_preview/particle.gif" style="float:right; width: 50%; height: 50%">
